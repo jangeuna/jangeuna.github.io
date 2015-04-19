@@ -1,6 +1,6 @@
 #RESUME
 
-![사진](profile.jpg)
+![사진](profile.jpeg)
 
 
 **이름** : 장은아
